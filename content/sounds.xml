@@ -1,0 +1,11 @@
+<sounds root="sfx/">
+	<sound name="Vats Enter">
+		<sample weight="1" path="vatsEnter.wav" />
+	</sound>
+	<sound name="Vats Move">
+		<sample weight="1" path="vatsMove.wav" />
+	</sound>
+	<sound name="Vats Ready">
+		<sample weight="1" path="vatsReady.wav" />
+	</sound>
+</sounds>

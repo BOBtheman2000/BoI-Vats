@@ -1,0 +1,6 @@
+<wisps gfxroot="gfx/familiar/wisps/">
+
+	<color name="vats_green" r="0" g="300" b="0"/>
+	<wisp id="1" hp="2" layer="1" damage="3" flameColor="vats_green" coreColor="vats_green" tearColor="vats_green" />
+
+</wisps>

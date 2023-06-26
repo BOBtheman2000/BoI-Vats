@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+	<active id="1" name="I.S.A.A.C" description="The Intuitive System for Assisting in the Annihilation of Creatures!" gfx="vats.png" maxcharges="600" chargetype="timed" quality="3"/>
+</items>

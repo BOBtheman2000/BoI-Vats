@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>I.S.A.A.C</name>
+    <directory>vats</directory>
+    <id>2886526630</id>
+    <description>The Intuitive System for Assisting in the Annihilation of Creatures!
+
+This mod adds a new active item to the treasure room pool that freezes enemies in their place, allowing you to select one to fire a volley of 5 of your tears.
+
+IF YOU'RE GETTING A BLACK SCREEN WHEN PLAYING THE GAME, TRY USING THE NON-SHADER VERSION, THIS IS HIGHLY LIKELY FOR STEAM DECK USERS!
+
+Non-shader version here:
+https://steamcommunity.com/sharedfiles/filedetails/?id=2967464223</description>
+    <version>1.4</version>
+    <visibility>Private</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+    <tag id="Active Items"/>
+    <tag id="Tweaks"/>
+    <tag id="Shaders"/>
+    <tag id="Sound Effects"/>
+</metadata>
