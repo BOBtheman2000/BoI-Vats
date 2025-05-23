@@ -1,2 +1,5 @@
 # BoI-Vats
-A content mod for The Binding of Isaac: Repentance
+A content mod for [The Binding of Isaac: Repentance](https://store.steampowered.com/app/1426300/The_Binding_of_Isaac_Repentance/)
+
+## Links
+You can download this mod from the [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2886526630).
